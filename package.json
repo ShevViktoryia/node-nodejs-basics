@@ -41,6 +41,7 @@
   },
   "homepage": "https://github.com/AlreadyBored/node-nodejs-basics#readme",
   "dependencies": {
+    "crypto": "^1.0.1",
     "dotenv": "^16.4.5",
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
